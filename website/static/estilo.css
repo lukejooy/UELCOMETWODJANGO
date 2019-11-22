@@ -8,3 +8,16 @@ body{
 img{
     width: 100%;
 }
+
+nav{
+    background-color: violet;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    color: indigo;
+    font-size: 14pt;
+    text-decoration: none;
+}
